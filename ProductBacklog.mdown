@@ -1,0 +1,79 @@
+# Product Backlog
+
+## Búsqueda
+
+`Como usuario quiero poder buscar cualquier alumno que desee dentro de la base de datos.`
+
+**Prioridad** : 1
+
+**Tiempo Estimado**: 3 horas
+
+
+
+## Añadir
+
+`Como usuario quiero poder añadir un elemento a la base de datos`
+
+**Prioridad** : 2
+
+**Tiempo Estimado**: 3 horas
+
+
+
+## Borrar
+
+`Como usuario quiero poder borrar a uno o varios elementos dentro de la base de datos`
+
+**Prioridad** : 2
+
+**Tiempo Estimado**: 3 horas
+
+
+
+## Modificar
+
+`Como usuario quiero poder modificar cualquier elemento de la base de datos`
+
+**Prioridad** : 2
+
+**Tiempo Estimado**: 3 horas
+
+
+
+## Mostrar
+
+`Como usuario quiero poder buscar cualquier alumno que desee, todos los alumnos o un grupo específico dentro de la base de datos`
+
+**Prioridad** : 2
+
+**Tiempo Estimado**: 3 horas
+
+
+
+## Cargar
+
+`Como usuario quiero poder cargar una base de datos o crear una nueva`
+
+**Prioridad** : 1
+
+**Tiempo Estimado**: 3 horas
+
+
+
+## Guardar
+
+`Como usuario quiero poder guardar los datos en la base de datos`
+
+**Prioridad** : 1
+
+**Tiempo Estimado**: 3 horas
+
+
+
+## Clases
+
+`Creacion de las clases representadas en el programa`
+
+**Prioridad** : 1
+
+**Tiempo Estimado**: 4 horas
