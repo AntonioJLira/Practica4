@@ -2,6 +2,6 @@
 
 ## Primera semana
 
-`Durante la primera semana se han creado los archivos de las clases y se ha comenzado a programarlos`
+`Durante la primera semana se han creado los archivos de las clases , se ha añadido (no todos) los sets y los gets de cada una de ellas y posteriormente se ha programado un menu principal para la aplicación`
 
 **Tiempo Empleado** : 8 horas
