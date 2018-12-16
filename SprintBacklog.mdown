@@ -5,3 +5,9 @@
 `Durante la primera semana se han creado los archivos de las clases , se ha añadido (no todos) los sets y los gets de cada una de ellas y posteriormente se ha programado un menu principal para la aplicación`
 
 **Tiempo Empleado** : 8 horas
+
+## Segunda semana
+
+`Durante la segunda semana se ha terminado de programar el código, y hemos dejado el programa listo para usarse, corriguiendo los problemas surgidos `
+
+**Tiempo Empleado** : 17 horas
