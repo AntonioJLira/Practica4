@@ -1,5 +1,12 @@
+#include "profesor.h"
+#include "alumno.h"
 #include "agenda.h"
-
+#include <string>
+#include <iostream>
+#include <stdlib.h>
+#include <fstream>
+#include <cstring>
+#include <list>
 
 Agenda::Agenda(int num_alumnos, int num_grupos){
 

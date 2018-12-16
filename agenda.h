@@ -27,7 +27,7 @@ private:
 
     int num_alumnos_;
     int num_grupos_;
-
+  
 
 };
 
